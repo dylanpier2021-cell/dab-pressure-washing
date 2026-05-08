@@ -1,0 +1,57 @@
+# Cloudflare Pages _redirects
+# Format: /old-path  /new-path  status-code
+
+# Live site slug — lowercase redirect (SEO canonical fix)
+/Driveway-Cleaning    /services/driveway-cleaning/    301
+/Driveway-Cleaning/   /services/driveway-cleaning/    301
+
+# /home → root (both the live /home route and any bookmarks)
+/home    /    301
+/home/   /    301
+
+# Old build service slugs → new live-matching slugs
+/services/house-washing/                    /services/house-washing-champaign-county/                    301
+/services/house-washing                     /services/house-washing-champaign-county/                    301
+/services/driveway-concrete-cleaning/       /services/driveway-cleaning/                                 301
+/services/driveway-concrete-cleaning        /services/driveway-cleaning/                                 301
+/services/deck-fence-cleaning/              /services/deck-and-fence-cleaning-champaign-county/          301
+/services/deck-fence-cleaning               /services/deck-and-fence-cleaning-champaign-county/          301
+/services/commercial-pressure-washing/      /services/commercial-pressure-washing-champaign-county/      301
+/services/commercial-pressure-washing       /services/commercial-pressure-washing-champaign-county/      301
+
+# Old build city slugs → new live-matching slugs
+/service-areas/champaign/    /service-areas/pressure-washing-champaign-il/    301
+/service-areas/champaign     /service-areas/pressure-washing-champaign-il/    301
+/service-areas/urbana/       /service-areas/pressure-washing-urbana-il/       301
+/service-areas/urbana        /service-areas/pressure-washing-urbana-il/       301
+/service-areas/savoy/        /service-areas/pressure-washing-savoy-il/        301
+/service-areas/savoy         /service-areas/pressure-washing-savoy-il/        301
+
+# Live site alternative URL patterns
+/house-washing-champaign-county    /services/house-washing-champaign-county/                    301
+/deck-and-fence-cleaning-champaign-county    /services/deck-and-fence-cleaning-champaign-county/    301
+/concrete-cleaning-champaign-county          /services/concrete-cleaning-champaign-county/          301
+/commercial-pressure-washing-champaign-county /services/commercial-pressure-washing-champaign-county/ 301
+/window-cleaning-service                     /services/window-cleaning-service/                    301
+
+# Live site city URL patterns (no /service-areas/ prefix)
+/pressure-washing-champaign-il     /service-areas/pressure-washing-champaign-il/     301
+/pressure-washing-urbana-il        /service-areas/pressure-washing-urbana-il/        301
+/pressure-washing-savoy-il         /service-areas/pressure-washing-savoy-il/         301
+/pressure-washing-mahomet-il       /service-areas/pressure-washing-mahomet-il/       301
+/pressure-washing-thomasboro-il    /service-areas/pressure-washing-thomasboro-il/    301
+/pressure-washing-tolono-il        /service-areas/pressure-washing-tolono-il/        301
+/pressure-washing-saint-joseph-il  /service-areas/pressure-washing-saint-joseph-il/  301
+/pressure-washing-rantoul-il       /service-areas/pressure-washing-rantoul-il/       301
+/pressure-washing-fisher-il        /service-areas/pressure-washing-fisher-il/        301
+/pressure-washing-philo-il         /service-areas/pressure-washing-philo-il/         301
+/pressure-washing-sidney-il        /service-areas/pressure-washing-sidney-il/        301
+/pressure-washing-homer-il         /service-areas/pressure-washing-homer-il/         301
+
+# Live site hub: /service-locations → /service-areas/
+/service-locations    /service-areas/    301
+/service-locations/   /service-areas/    301
+
+# Contact page (live uses /contact, our build uses /contact.html)
+/contact     /contact.html    301
+/about       /about.html      301

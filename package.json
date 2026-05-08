@@ -1,0 +1,14 @@
+{
+  "name": "contractor-site-template",
+  "version": "1.0.0",
+  "description": "Pierson Digital Marketing - Contractor & Home Service Website Template",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --watch",
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --minify",
+    "serve": "npx http-server . -p 3000 -c-1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13",
+    "@tailwindcss/typography": "^0.5.15"
+  }
+}
