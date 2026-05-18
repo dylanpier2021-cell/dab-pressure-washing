@@ -177,16 +177,23 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- Review page -->
+  <url>
+    <loc>https://dabpressurewashing.com/leave-a-review/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+
   <!-- Legal pages — low priority, noindex on the pages themselves -->
   <url>
     <loc>https://dabpressurewashing.com/privacy-policy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.3</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/terms-and-conditions/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.3</priority>
   </url>
 

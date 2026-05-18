@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:dabpressurewashing.com)"
+      "WebFetch(domain:dabpressurewashing.com)",
+      "Bash(python3 -c ' *)",
+      "Bash(git add *)"
     ]
   }
 }
