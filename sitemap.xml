@@ -4,151 +4,157 @@
   <!-- Home -->
   <url>
     <loc>https://dabpressurewashing.com/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>1.0</priority>
   </url>
 
   <!-- Top-level pages -->
   <url>
     <loc>https://dabpressurewashing.com/about.html</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/contact.html</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dabpressurewashing.com/leave-a-review/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.5</priority>
   </url>
 
   <!-- Services hub -->
   <url>
     <loc>https://dabpressurewashing.com/services/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- Service pages -->
   <url>
     <loc>https://dabpressurewashing.com/services/house-washing-champaign-county/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/services/driveway-cleaning/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/services/concrete-cleaning-champaign-county/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/services/deck-and-fence-cleaning-champaign-county/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/services/commercial-pressure-washing-champaign-county/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/services/window-cleaning-service/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- Service areas hub -->
   <url>
     <loc>https://dabpressurewashing.com/service-areas/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
   </url>
 
   <!-- City pages -->
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-champaign-il/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-urbana-il/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-savoy-il/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-mahomet-il/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-thomasboro-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-tolono-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-saint-joseph-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-rantoul-il/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-fisher-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-philo-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-sidney-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dabpressurewashing.com/service-areas/pressure-washing-homer-il/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <!-- Blog hub -->
   <url>
     <loc>https://dabpressurewashing.com/blog/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-17</lastmod>
     <priority>0.7</priority>
   </url>
 
@@ -175,26 +181,6 @@
     <loc>https://dabpressurewashing.com/blog/b/how-often-should-you-pressure-wash/</loc>
     <lastmod>2026-01-28</lastmod>
     <priority>0.6</priority>
-  </url>
-
-  <!-- Review page -->
-  <url>
-    <loc>https://dabpressurewashing.com/leave-a-review/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.5</priority>
-  </url>
-
-  <!-- Legal pages — low priority, noindex on the pages themselves -->
-  <url>
-    <loc>https://dabpressurewashing.com/privacy-policy/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.3</priority>
-  </url>
-
-  <url>
-    <loc>https://dabpressurewashing.com/terms-and-conditions/</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.3</priority>
   </url>
 
 </urlset>

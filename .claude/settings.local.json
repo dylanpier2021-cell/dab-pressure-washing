@@ -3,7 +3,11 @@
     "allow": [
       "WebFetch(domain:dabpressurewashing.com)",
       "Bash(python3 -c ' *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(python3 seo_fix.py)",
+      "Bash(python3 -)"
     ]
   }
 }
