@@ -13,7 +13,10 @@
       "Bash(python -m pip install Pillow -q)",
       "Bash(python -c \"from PIL import Image; print\\('ok'\\)\")",
       "Bash(python -c ' *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(python3)",
+      "Bash(ls driveway-cleaning/)",
+      "Bash(python3 fix_placeholders.py)"
     ]
   }
 }
